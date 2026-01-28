@@ -2,24 +2,35 @@
 
 ---
 
-## Ventas
-**Fecha de cambio:** No disponible
+## 1. Ventas
 
-<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Desarrollo</span>
+### 1.1. <span style="font-size:18px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Desarrollo</span>
 
+**Fecha de cambio:**
 
+- Ejemplo
 
-<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+### 1.2. <span style="font-size:18px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-## Compras
+**Fecha de cambio:**
 
-## Almacenes
+- Ejemplo
 
-## Instalaciones
+---
 
-## Configuraciones
+## 2. Compras
 
+---
 
+## 3. Almacenes
+
+---
+
+## 4. Instalaciones
+
+---
+
+## 5. Configuraciones
 
 ---
 
