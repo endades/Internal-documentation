@@ -1,0 +1,30 @@
+site_name: Endades Newsletter
+# site_favicon: img/favicon.ico
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  # logo: img/endades.png
+  # favicon: images/Time2_16x16.png
+  
+
+### Change font style ###
+extra_css:
+  - stylesheets/custom.css
+
+#extra_javascript:
+#  - assets/javascripts/search-highlight.js
+
+### Hide logos and copy rights ###
+extra:
+  hide:
+    github: true
+    edit_page: true
+
+copyright: " "
+
+### Menu navegacion ###
+nav:
+  - Inicio: index.md
+  - Desarrollo ENBLAU: ENBLAU_Dev.md
+
