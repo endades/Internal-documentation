@@ -1,36 +1,55 @@
-# Desarrollo interno ENBLAU
+# Internal development ENBLAU
 
 ---
 
-## 1. Ventas
 
-### 1.1. <span style="font-size:18px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Desarrollo</span>
+## <span style="color:#2E86C1;">1. Sales developments</span> 
 
-**Fecha de cambio:**
+### 1.1. "New development"
 
-- Ejemplo
+**Implementation date:**
 
-### 1.2. <span style="font-size:18px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
-
-**Fecha de cambio:**
-
-- Ejemplo
+- "Development explanation"
 
 ---
 
-## 2. Compras
+## <span style="color:#2E86C1;">2. Purchase developments</span>  
+
+### 2.1. "New development"
+
+**Implementation date:**
+
+- "Development explanation"
 
 ---
 
-## 3. Almacenes
+## <span style="color:#2E86C1;">3. Stock developments</span> 
+
+### 3.1. "New development"
+
+**Implementation date:**
+
+- "Development explanation"
 
 ---
 
-## 4. Instalaciones
+## <span style="color:#2E86C1;">4. Instalation developments</span> 
+
+### 4.1. "New development"
+
+**Implementation date:**
+
+- "Development explanation"
 
 ---
 
-## 5. Configuraciones
+## <span style="color:#2E86C1;">5. Configuration developments</span> 
+
+### 5.1. "New development"
+
+**Implementation date:**
+
+- "Development explanation"
 
 ---
 

@@ -8,27 +8,27 @@
 </div>
 
 ---
+# What is an internal document for?
 
-# ¿Para qué sirve un Documento Interno?
-
-El Documento Interno tiene como objetivo **alinear al equipo técnico** sobre la arquitectura, decisiones de diseño, cambios implementados y lineamientos técnicos del software a lo largo de su ciclo de vida.
+The purpose of the Internal Document is to **align the technical team** on the architecture, design decisions, implemented changes, and technical guidelines of the software throughout its lifecycle.
 
 ---
 
-# ¿Por qué es importante?
+# Why is it important?
 
-- **Centraliza el conocimiento técnico:**  
-  Reúne en un solo lugar información clave sobre el funcionamiento interno del sistema, evitando dependencias de conocimiento tácito.
+- **Centralizes technical knowledge:**  
+  Brings together key information about the internal workings of the system in one place, avoiding reliance on tacit knowledge.
 
-- **Facilita el mantenimiento y la evolución del software:**  
-  Permite que nuevos desarrolladores o equipos comprendan rápidamente el código, las decisiones técnicas y las dependencias existentes.
+- **Facilitates software maintenance and evolution:**  
+  Enables new developers or teams to quickly understand the codebase, technical decisions, and existing dependencies.
 
-- **Mejora la coherencia técnica:**  
-  Ayuda a mantener estándares de desarrollo, patrones de diseño y buenas prácticas consistentes entre módulos y versiones.
+- **Improves technical consistency:**  
+  Helps maintain consistent development standards, design patterns, and best practices across modules and versions.
 
-- **Reduce riesgos y errores:**  
-  Documentar decisiones, supuestos y limitaciones disminuye errores derivados de cambios no alineados o mal entendidos.
+- **Reduces risks and errors:**  
+  Documenting decisions, assumptions, and limitations reduces errors caused by misaligned or misunderstood changes.
 
-- **Apoya la toma de decisiones técnicas:**  
-  Proporciona contexto histórico y técnico para evaluar refactorizaciones, nuevas funcionalidades o cambios de arquitectura.
+- **Supports technical decision-making:**  
+  Provides historical and technical context to evaluate refactoring efforts, new features, or architectural changes.
+
 

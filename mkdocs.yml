@@ -23,8 +23,8 @@ extra:
 
 copyright: " "
 
-### Menu navegacion ###
+### Menu navegation ###
 nav:
-  - Inicio: index.md
-  - Desarrollo ENBLAU: ENBLAU_Dev.md
+  - Home: index.md
+  - Development ENBLAU: ENBLAU_Dev.md
 
