@@ -26,5 +26,14 @@ copyright: " "
 ### Menu navegation ###
 nav:
   - Home: index.md
-  - Development ENBLAU: ENBLAU_Dev.md
+  - Development:
+    - ENBLAU: Development/ENBLAU_Dev.md
+    - enCONTROL: Development/enCONTROL_Dev.md
+    - enSITE: Development/enSITE_Dev.md
+    - enMATERIALS: Development/enMATERIALS_Dev.md
+    - enCAD: Development/enCAD_Dev.md
+    - enCLAD: Development/enCLAD_Dev.md
+    - enUPDATE: Development/enUPDATE_Dev.md
+    - enCONNECT: Development/enCONNECT_Dev.md
+    - ENBLAU WEB: Development/ENBLAU_WEB_Dev.md
 
