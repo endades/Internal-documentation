@@ -23,6 +23,9 @@ extra:
 
 copyright: " "
 
+extra_javascript:
+  - js/auth-modal.js
+
 ### Menu navegation ###
 nav:
   - Home: index.md
