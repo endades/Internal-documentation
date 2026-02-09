@@ -5,15 +5,34 @@
 
 ## 1. Sales
 
-### 1.1. "New development"
+### 1.1. "Needed materials on sales document"
 
-**Implementation date:**
+**Implementation date: 06/02/2026**
+**Requested by: Customer - Aluminios y persianas Álvarez**
 
 - "Development explanation"
 
+    Was difficult for the user choose every materials from stock, when is clear that the material from warehouse are available to do the productions. 
+Each position contains a lot of differents materials, each material can be a different line in materials needed. 
+With the button to assign automatically the materials, this work change to much more easy.
+    Other thing is the column, separate "Materials in rpoject" and "Materials in warehouse". 
+Is important to recognise that easily to take measures, like for example, buy materials or assign materials.
+
     **<span style="color:#2E86C1;">Front-end</span>** 
 
+        1.- Added new button to assign materials to the current project automatically, based on the materials assigned to the stock project.
+
+            ButtonAsignarStock
+
+        2.- Added new check type column to show materials in current project and materials in stock project.
+
+            .- **Added:** <dxg:GridColumn (FieldName="TieneStock_ProyectoStock")
+            .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2
+            .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2_X_IDVDM
+
     **<span style="color:#008f39;">Back-end</span>**
+        
+        1.- Events: ButtonAsignarStock_ItemClick, Almacen_Ubicaciones_Asignar_Auto
 
 ---
 
