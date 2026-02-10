@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Git\\Internal-documentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\ENBLAU_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enUPDATE_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\enUPDATE_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -23,16 +19,28 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\enCONTROL_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCONNECT_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\enCONNECT_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCLAD_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\enCLAD_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCAD_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\enCAD_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\ENBLAU_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_WEB_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Development\\ENBLAU_WEB_Dev.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Git\\Internal-documentation\\docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,98 +58,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "enCONNECT_Dev.md",
+              "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCONNECT_Dev.md",
+              "RelativeDocumentMoniker": "docs\\Development\\enCONNECT_Dev.md",
+              "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCONNECT_Dev.md",
+              "RelativeToolTip": "docs\\Development\\enCONNECT_Dev.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-10T14:16:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enCLAD_Dev.md",
+              "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCLAD_Dev.md",
+              "RelativeDocumentMoniker": "docs\\Development\\enCLAD_Dev.md",
+              "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCLAD_Dev.md",
+              "RelativeToolTip": "docs\\Development\\enCLAD_Dev.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-10T14:16:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "enUPDATE_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enUPDATE_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\enUPDATE_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enUPDATE_Dev.md",
               "RelativeToolTip": "docs\\Development\\enUPDATE_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:40:14.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "enSITE_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enSITE_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\enSITE_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enSITE_Dev.md",
               "RelativeToolTip": "docs\\Development\\enSITE_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:40:11.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "enMATERIALS_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enMATERIALS_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\enMATERIALS_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enMATERIALS_Dev.md",
               "RelativeToolTip": "docs\\Development\\enMATERIALS_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:40:06.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "enCONTROL_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCONTROL_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\enCONTROL_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCONTROL_Dev.md",
               "RelativeToolTip": "docs\\Development\\enCONTROL_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:40:03.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "enCAD_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCAD_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\enCAD_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\enCAD_Dev.md",
               "RelativeToolTip": "docs\\Development\\enCAD_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:37:16.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ENBLAU_WEB_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_WEB_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\ENBLAU_WEB_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_WEB_Dev.md",
               "RelativeToolTip": "docs\\Development\\ENBLAU_WEB_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:36:57.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ENBLAU_Dev.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_Dev.md",
               "RelativeDocumentMoniker": "docs\\Development\\ENBLAU_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_Dev.md",
               "RelativeToolTip": "docs\\Development\\ENBLAU_Dev.md",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:36:53.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "index.md",
               "DocumentMoniker": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\index.md",
               "RelativeDocumentMoniker": "docs\\index.md",

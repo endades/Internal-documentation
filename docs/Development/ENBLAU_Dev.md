@@ -45,13 +45,20 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ### 2.1. New development
 
-**Implementation date:**
+- **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
+- **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-- "Development explanation"
+    **<span style="color:#FA6000;">Development explanation</span>**
 
-    **<span style="color:#2E86C1;">Front-end</span>** 
 
-    **<span style="color:#008f39;">Back-end</span>**
+
+    **<span style="color:#1B0FA3;">Front-end</span>** 
+
+
+
+    **<span style="color:#1B0FA3;">Back-end</span>** 
+
+
 
 ---
 
@@ -59,13 +66,20 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ### 3.1. New development
 
-**Implementation date:**
+- **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
+- **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-- "Development explanation"
+    **<span style="color:#FA6000;">Development explanation</span>**
 
-    **<span style="color:#2E86C1;">Front-end</span>** 
 
-    **<span style="color:#008f39;">Back-end</span>**
+
+    **<span style="color:#1B0FA3;">Front-end</span>** 
+
+
+
+    **<span style="color:#1B0FA3;">Back-end</span>** 
+
+
 
 ---
 
@@ -73,13 +87,20 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ### 4.1. New development
 
-**Implementation date:**
+- **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
+- **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-- "Development explanation"
+    **<span style="color:#FA6000;">Development explanation</span>**
 
-    **<span style="color:#2E86C1;">Front-end</span>** 
 
-    **<span style="color:#008f39;">Back-end</span>**
+
+    **<span style="color:#1B0FA3;">Front-end</span>** 
+
+
+
+    **<span style="color:#1B0FA3;">Back-end</span>** 
+
+
 
 ---
 
@@ -87,13 +108,20 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ### 5.1. New development
 
-**Implementation date:**
+- **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
+- **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-- "Development explanation"
+    **<span style="color:#FA6000;">Development explanation</span>**
 
-    **<span style="color:#2E86C1;">Front-end</span>** 
 
-    **<span style="color:#008f39;">Back-end</span>**
+
+    **<span style="color:#1B0FA3;">Front-end</span>** 
+
+
+
+    **<span style="color:#1B0FA3;">Back-end</span>** 
+
+
 
 ---
 
