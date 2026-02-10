@@ -35,7 +35,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 	![Development](../images/Development/20260206-1.jpg)
 
-    <strong style="color:#0BD95B;font-weight:800;background:linear-gradient(transparent 60%, #C9CCFF 60%);">Front-end</strong>
+    <strong style="color:#1B0FA3;font-weight:800;background:linear-gradient(transparent 60%, #C9CCFF 60%);">Front-end</strong>
         
         1.- Events: ButtonAsignarStock_ItemClick, Almacen_Ubicaciones_Asignar_Auto
 
