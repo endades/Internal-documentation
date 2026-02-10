@@ -10,7 +10,7 @@
 **Implementation date: 06/02/2026**
 **Requested by: Customer - Aluminios y persianas Álvarez**
 
-- "Development explanation"
+- **<span style="color:#C0392B;">Development explanation</span>**
 
     Was difficult for the user choose every material from stock, when is clear that the material from warehouse are available to do the productions. 
 Each position contains a lot of differents materials, each material can be a different line in materials needed. 
