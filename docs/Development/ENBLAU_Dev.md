@@ -8,13 +8,13 @@
 ### 1.1. "Needed materials on sales document"
 
 **Implementation date: 06/02/2026**
-**Requested by: Customer - Aluminios y persianas ¡lvarez**
+**Requested by: Customer - Aluminios y persianas √Ålvarez**
 
 - "Development explanation"
 
-    Was difficult for the user choose every materials from stock, when is clear that the material from warehouse are available to do the productions. 
+    Was difficult for the user choose every material from stock, when is clear that the material from warehouse are available to do the productions. 
 Each position contains a lot of differents materials, each material can be a different line in materials needed. 
-With the button to assign automatically the materials, this work change to much more easy.
+With the button to assign automatically the materials, this work change to much easier.
     Other thing is the column, separate "Materials in rpoject" and "Materials in warehouse". 
 Is important to recognise that easily to take measures, like for example, buy materials or assign materials.
 
