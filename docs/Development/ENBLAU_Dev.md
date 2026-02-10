@@ -7,8 +7,8 @@
 
 ### 1.1. Needed materials on sales document
 
-- **Implementation date: <span style="color:#000000;">06/02/2026</span>**
-- **Requested by: <span style="color:#000000;">Customer - Aluminios y persianas Álvarez</span>**
+- **<span style="color:#C0392B;">Implementation date: </span> <span style="color:#000000;">06/02/2026</span>**
+- **<span style="color:#C0392B;">Requested by: </span> <span style="color:#000000;">Customer - Aluminios y persianas Álvarez</span>**
 
     **<span style="color:#C0392B;">Development explanation</span>**
 
