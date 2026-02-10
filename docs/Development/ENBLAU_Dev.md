@@ -31,9 +31,9 @@ Is important to recognise that easily to take measures, like for example, buy ma
             .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2
             .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2_X_IDVDM
 
-	![Development](./images/Development/20260206-0.jpg)
+	![Development](./images/images/Development/20260206-0.jpg)
 
-	![Development](./images/Development/20260206-1.jpg)
+	![Development](./images/images/Development/20260206-1.jpg)
 
     **<span style="color:#008f39;">Back-end</span>**
         
