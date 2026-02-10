@@ -5,7 +5,7 @@
 
 ## 1. Sales
 
-### 1.1. "Needed materials on sales document"
+### 1.1. Needed materials on sales document
 
 **Implementation date: 06/02/2026**
 **Requested by: Customer - Aluminios y persianas Álvarez**
@@ -30,6 +30,10 @@ Is important to recognise that easily to take measures, like for example, buy ma
             .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2
             .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2_X_IDVDM
 
+	![Development](./images/MSI/20260206-0.jpg)
+
+	![Development](./images/MSI/20260206-1.jpg)
+
     **<span style="color:#008f39;">Back-end</span>**
         
         1.- Events: ButtonAsignarStock_ItemClick, Almacen_Ubicaciones_Asignar_Auto
@@ -38,7 +42,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ## 2. Purchase 
 
-### 2.1. "New development"
+### 2.1. New development
 
 **Implementation date:**
 
@@ -52,7 +56,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ## 3. Stock
 
-### 3.1. "New development"
+### 3.1. New development
 
 **Implementation date:**
 
@@ -66,7 +70,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ## 4. Instalation
 
-### 4.1. "New development"
+### 4.1. New development
 
 **Implementation date:**
 
@@ -80,7 +84,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 ## 5. Configuration
 
-### 5.1. "New development"
+### 5.1. New development
 
 **Implementation date:**
 

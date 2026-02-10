@@ -58,7 +58,8 @@
               "RelativeToolTip": "docs\\Development\\enUPDATE_Dev.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:40:14.665Z"
+              "WhenOpened": "2026-02-03T07:40:14.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,7 +71,8 @@
               "RelativeToolTip": "docs\\Development\\enSITE_Dev.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:40:11.272Z"
+              "WhenOpened": "2026-02-03T07:40:11.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,7 +84,8 @@
               "RelativeToolTip": "docs\\Development\\enMATERIALS_Dev.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:40:06.177Z"
+              "WhenOpened": "2026-02-03T07:40:06.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,7 +97,8 @@
               "RelativeToolTip": "docs\\Development\\enCONTROL_Dev.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:40:03.74Z"
+              "WhenOpened": "2026-02-03T07:40:03.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +110,8 @@
               "RelativeToolTip": "docs\\Development\\enCAD_Dev.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:37:16.973Z"
+              "WhenOpened": "2026-02-03T07:37:16.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +123,8 @@
               "RelativeToolTip": "docs\\Development\\ENBLAU_WEB_Dev.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:36:57.135Z"
+              "WhenOpened": "2026-02-03T07:36:57.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,7 +134,7 @@
               "RelativeDocumentMoniker": "docs\\Development\\ENBLAU_Dev.md",
               "ToolTip": "C:\\Proyectos\\Git\\Internal-documentation\\docs\\Development\\ENBLAU_Dev.md",
               "RelativeToolTip": "docs\\Development\\ENBLAU_Dev.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-03T07:36:53.831Z",
               "EditorCaption": ""
@@ -143,7 +149,8 @@
               "RelativeToolTip": "docs\\index.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T07:36:47.658Z"
+              "WhenOpened": "2026-02-03T07:36:47.658Z",
+              "EditorCaption": ""
             }
           ]
         }
