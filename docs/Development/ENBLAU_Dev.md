@@ -7,11 +7,8 @@
 
 ### 1.1. Needed materials on sales document
 
-**Implementation date: 06/02/2026**
-
-**Requested by: Customer - Aluminios y persianas Álvarez**
-
-- **<span style="color:#C0392B;">Development explanation</span>**
+- **<span style="color:#C0392B;">Implementation date: 06/02/2026</span>**
+- **<span style="color:#C0392B;">Requested by: Customer - Aluminios y persianas Álvarez</span>**
 - **<span style="color:#C0392B;">Development explanation</span>**
 
     Was difficult for the user choose every material from stock, when is clear that the material from warehouse are available to do the productions. 
