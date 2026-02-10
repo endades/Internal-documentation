@@ -10,6 +10,8 @@
 - **<span style="color:#000000;">Implementation date: 06/02/2026</span>**
 - **<span style="color:#000000;">Requested by: Customer - Aluminios y persianas Álvarez</span>**
 
+
+
 - **<span style="color:#C0392B;">Development explanation</span>**
 
     Was difficult for the user choose every material from stock, when is clear that the material from warehouse are available to do the productions. 
