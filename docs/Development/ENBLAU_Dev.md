@@ -10,7 +10,7 @@
 - **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">06/02/2026</span>**
 - **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Aluminios y persianas Álvarez</span>**
 
-    **<span style="color:#FA6000;">Development explanation</span>**
+    **<span style="color:#1B0FA3;">Development explanation</span>**
 
     Was difficult for the user choose every material from stock, when is clear that the material from warehouse are available to do the productions. 
 Each position contains a lot of differents materials, each material can be a different line in materials needed. 
@@ -48,7 +48,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 - **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
 - **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-    **<span style="color:#FA6000;">Development explanation</span>**
+    **<span style="color:#1B0FA3;">Development explanation</span>**
 
 
 
@@ -69,7 +69,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 - **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
 - **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-    **<span style="color:#FA6000;">Development explanation</span>**
+    **<span style="color:#1B0FA3;">Development explanation</span>**
 
 
 
@@ -90,7 +90,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 - **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
 - **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-    **<span style="color:#FA6000;">Development explanation</span>**
+    **<span style="color:#1B0FA3;">Development explanation</span>**
 
 
 
@@ -111,7 +111,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 - **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">Date</span>**
 - **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Internal</span>**
 
-    **<span style="color:#FA6000;">Development explanation</span>**
+    **<span style="color:#1B0FA3;">Development explanation</span>**
 
 
 
