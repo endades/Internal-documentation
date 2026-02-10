@@ -27,9 +27,9 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
         2.- Added new check type column to show materials in current project and materials in stock project.
 
-            .- **Added:** <dxg:GridColumn (FieldName="TieneStock_ProyectoStock")
-            .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2
-            .- **Modified:** Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2_X_IDVDM
+            .- Added: <dxg:GridColumn (FieldName="TieneStock_ProyectoStock")
+            .- Modified: Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2
+            .- Modified: Ventas_Detalle_MaterialTableAdapter.FillBy_VentasID_ConImagen_Modo2_X_IDVDM
 
 	![Development](../images/Development/20260206-0.jpg)
 
