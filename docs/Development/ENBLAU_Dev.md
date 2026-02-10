@@ -8,7 +8,7 @@
 ### 1.1. "Needed materials on sales document"
 
 **Implementation date: 06/02/2026**
-**Requested by: Customer - Aluminios y persianas ¡lvarez**
+**Requested by: Customer - Aluminios y persianas √Ålvarez**
 
 - "Development explanation"
 
