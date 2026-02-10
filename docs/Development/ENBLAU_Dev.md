@@ -7,10 +7,10 @@
 
 ### 1.1. Needed materials on sales document
 
-- **<span style="color:#C0392B;">Implementation date: </span> <span style="color:#000000;">06/02/2026</span>**
-- **<span style="color:#C0392B;">Requested by: </span> <span style="color:#000000;">Customer - Aluminios y persianas Álvarez</span>**
+- **<span style="color:#FA6000;">Implementation date: </span> <span style="color:#000000;">06/02/2026</span>**
+- **<span style="color:#FA6000;">Requested by: </span> <span style="color:#000000;">Customer - Aluminios y persianas Álvarez</span>**
 
-    **<span style="color:#C0392B;">Development explanation</span>**
+    **<span style="color:#FA6000;">Development explanation</span>**
 
     Was difficult for the user choose every material from stock, when is clear that the material from warehouse are available to do the productions. 
 Each position contains a lot of differents materials, each material can be a different line in materials needed. 
@@ -19,7 +19,7 @@ With the button to assign automatically the materials, this work change to much 
     Other thing is the column, separate "Materials in rpoject" and "Materials in warehouse". 
 Is important to recognise that easily to take measures, like for example, buy materials or assign materials.
 
-    **<span style="color:#2E86C1;">Front-end</span>** 
+    **<span style="color:#1B0FA3;">Front-end</span>** 
 
         1.- Added new button to assign materials to the current project automatically, based on the materials assigned to the stock project.
 
@@ -35,7 +35,7 @@ Is important to recognise that easily to take measures, like for example, buy ma
 
 	![Development](../images/Development/20260206-1.jpg)
 
-    **<span style="color:#008f39;">Back-end</span>**
+    **<span style="color:#0BD95B;">Back-end</span>**
         
         1.- Events: ButtonAsignarStock_ItemClick, Almacen_Ubicaciones_Asignar_Auto
 
